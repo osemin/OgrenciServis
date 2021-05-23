@@ -1,3 +1,3 @@
 # OgrenciServis
 Python öğrenirken yazdığım kodlardır.
-Programı Pycharmda yazdım siz daha farklı editörlerde kullanmabilirisiniz.Farklı editörler test edilmemiştir.
+Programı Pycharmda yazdım siz daha farklı editörlerde kullanabilirisiniz.Farklı editörler test edilmemiştir.
